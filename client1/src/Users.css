@@ -1,0 +1,34 @@
+.Users {
+    text-align: center;
+    height: 720px;
+    font-family: "Poppins";
+}
+tr{
+    width:100%;
+}
+.t1 {
+    width: 307px;
+    text-align: center;
+    font-family: "Poppins";
+    color: #42673B;
+}
+.na {
+    background: #DDFFBC;
+}
+#user {
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 50px;
+    margin-left: 40px;
+    color: #42673B;
+}
+button {
+    background-color: #42673B;
+    color: aliceblue;
+    border-radius:20px;
+
+}
+button:hover
+{
+    background-color:skyblue;
+}
